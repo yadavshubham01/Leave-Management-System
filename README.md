@@ -85,7 +85,7 @@ A full-stack **Leave Management System** that allows employees to apply for leav
 
 
 
-## 🖥️ Pages
+##  Pages
 
 - Login Page  
 - Register Page  
@@ -97,7 +97,7 @@ A full-stack **Leave Management System** that allows employees to apply for leav
 
 
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### Backend Setup
 ```bash
